@@ -1,0 +1,282 @@
+*{
+    color: black;
+    font-family: sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;     
+  }
+
+body{
+    margin: 0;
+    background-color: lavender;
+    width: 100vw;
+    height: 100vh;    
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+   
+}
+header {
+    background-color: black;
+    height: 100px;
+    width: 100%; 
+    position:fixed;
+    z-index: 2;
+}
+
+header h1 {
+    color: white;
+    font-size: 3rem;
+    padding-top: 25px;
+    padding-left: 30px;
+    z-index: 2;
+    position: fixed;
+}
+
+/******* MENU + NAV **********/ 
+
+h2 {
+    font-size: 1.5rem;
+    line-height: 2.5rem;   
+}
+
+h3 {
+    font-size: 1.1rem;
+    line-height: 2rem;  
+    position: relative; 
+}
+
+nav {
+    display: block;
+    width: 235px;
+    height: 100%;
+    position: fixed;
+    z-index: 1;
+    top: 100px;
+    left: 0;
+    bottom: 30px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FFF; 
+    }
+   
+ ul .menu { 
+    display: block; 
+    list-style-type: none;
+
+}
+
+li {
+    display:list-item;
+    font-size: 1rem;
+    line-height: 1.6rem; 
+    width: 90%;
+    cursor: pointer;
+}
+
+.menu:hover{
+    color: rgb(70, 70, 161);
+  }
+
+#search_bar {
+    position: relative;
+    top: 30px;
+    height: 20px;
+    width: 70%;
+}
+
+#weatherTittle, 
+#searchTittle {
+    position: relative;
+    top: 2%;
+    width: 100%;
+}
+
+#weather {
+    display: block;
+    position: relative;
+    top: 25px;
+    width: 100%;
+}
+
+#time {
+    font-size: .85rem;
+    font-weight: 500;
+    position: relative;
+    top: 50px;
+}
+
+
+/** RECIPES LIST DYNAMIC SECTION**/ 
+
+#Recipes_List-wrap {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    flex-basis: content;
+    height: 100%;
+    width: 90%;
+    padding: 20px;
+    padding-right: 20px;
+    gap: 20px;
+    position: relative;
+    left: 235px;
+    top: 100px;
+    background-color: lavender; 
+}
+
+.recipePreview:hover{
+    filter: brightness(90%)
+  }
+
+.recipePreview {
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: white;
+    border-radius: 15px;
+    padding: 15px;
+    width: 260px;
+    height: 300px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    position: relative;
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+    font-size: 1rem;
+    line-height: 1.2rem;
+    font-weight: bolder;
+    text-align: left;
+    position: relative;
+    bottom: -10px;
+}
+
+
+.img_preview {
+    display: block;
+    width: 230px;
+    height: 230px;
+    border-radius: 10px;
+    justify-items: center;
+    position: relative;
+    left:50%;
+    transform: translateX(-50%);
+    align-self: start;
+}
+
+/** RECIPE DYNAMIC SECTION**/ 
+
+#Recipe-wrap {
+    display: none;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    flex-basis: content;
+    height: 100%;
+    padding: 30px;
+    padding-right: 50px;
+    position:relative;
+    left: 240px;
+    top: 100px;
+    background-color: lavender;
+}
+
+.Recipe{
+    display: fixed;
+    padding-top: 10px;
+    padding-right: 50px;
+    height: 100%;
+    width: 90%;   
+}
+
+
+#recipe_Image{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    border-radius: 10px;
+    border: 10px solid white;
+    }
+
+#recipe_Title {
+    font-size: 1.5rem;
+    line-height: 1.6rem;
+    font-weight: bolder;
+    text-align: left;
+    position: fixed;
+    left: 560px;
+    top: 160px;
+}
+
+.prep_cook_portion {
+    word-wrap: normal;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.5rem;
+    text-align: left;
+    position: relative;
+    top: -130px;
+    left: 280px;
+}
+
+.ingr_instr_title {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3rem;
+    line-height: 3rem;
+    position: relative;
+    left: 0px;
+    top: -50px;
+}
+
+#instructions,
+#ingredients {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    word-wrap: normal;
+    font-size: .8rem;
+    position: relative;
+    width:100%;
+    left: 25px;
+    top: -50px;
+}
+
+footer {
+    display: flex;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    bottom: 0px;
+    background-color: black;
+    color: white;
+    z-index: 2;
+}
+
+small {
+    color: white;
+    text-align: center;
+    align-items: center;
+    position: relative;
+    top: 30%;
+    transform: translateY(-50%);
+    left: 50%;
+    transform: translateX(-50%);
+
+}

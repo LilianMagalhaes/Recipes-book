@@ -1,0 +1,42 @@
+<!doctype html>
+    <html lang="fr"> 
+        <head>
+            <title>Recipes</title>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width initial-scale=1.0"/>
+            <link rel="stylesheet" href="Recipes-CSS-screen.css" type="text/css"/>
+            <script type="text/javascript" src="Recipes-Script-weather.js"></script>
+            <script type="text/javascript" src="Recipes-Script.js"></script>       
+        </head>
+        <body>
+            <div id="container">
+           <header>
+                <h1> GREASE SPOON</h1>
+                <span id="buttonMenuApp" class="App" onclick="openNav()">&#9776;</span>
+            </header>
+                <nav>
+                    <h2>Recettes</h2>
+                    <h3>Categories</h3>
+                    <ul class="menu">
+                        <li class="menu" id="accueil">Accueil</li>
+                        <li class="menu filtre-recipe" id="dessert">Dessert</li>
+                        <li class="menu filtre-recipe" id="poisson">Poisson</li>
+                        <li class="menu filtre-recipe" id="poulet">Poulet</li>
+                    </ul>
+                    <h3 id="searchTittle">Rechercher</h3>
+                    <input id="search_bar" type="search" value="" placeholder="Rechercher..."></input>
+                    </br></br></br>
+                    <h3 id="weatherTittle">Meteo</h3>
+                    <span href="#" id="weather"></span> 
+                    
+                    <span class="date-time" id="time"></span>  
+                </nav>
+            
+                <section id="Recipes_List-wrap"><!-- RECIPES PREVIEWS--></section>
+                <section id="Recipe-wrap"><!-- SHOW SELECTED RECIPE --></section>
+                <footer>
+                    <small>Pour Oumou Doumbia et Lilian Magalhaes - Decembre/2022</small>
+                </footer>
+            </div>
+        </body>  
+</html>

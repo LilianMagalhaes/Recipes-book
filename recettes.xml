@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gourmetDoc>
+<gourmetDoc>
+	<recipe id="3">
+		<title>Ailes de poulet à la japonaise</title>
+		<category>Poulet</category>
+		<preptime>15 minutes</preptime>
+		<cooktime>15 minutes</cooktime>
+		<yield>4</yield>
+		<image>img1.jpg</image>
+		<ingredient_list>
+			<ingredient>5 lb d'ailes de poulet</ingredient>
+			<ingredient>1 tasse de sauce soya</ingredient>
+			<ingredient>1/4tasse de sucre</ingredient>
+			<ingredient>1 c. à thé de gingembre moulu</ingredient>
+			<ingredient>2 gousses d'ail</ingredient>
+			<ingredient>1/2 tasse de graines de sésame</ingredient>
+		</ingredient_list>
+		<instruction_list>
+			<instruction>Dans un grand plat, mélanger la sauce soya, le sucre, le gingembre et l'ail. En réserver 3/4 de tasse pour badigeonner le poulet. Faire mariner les ailes de poulet dans un plat au moins 2 heures, au réfrigérateur, en les retournant de temps à autre.</instruction>
+			<instruction>Placer les ailes de poulet dans un plat allant au four. Jeter la marinade. Préchauffer le gril du four. Badigeonner les ailes de poulet du mélange à la sauce soya réservé et faire cuire pendant 10 minutes. Les retourner et poursuivre la
+				cuisson 5 à 10 minutes, ou jusqu'à ce qu'elles soient dorées et tendres.</instruction>
+			<instruction>Parsemer de graines de sésame et servir immédiatement.</instruction>
+		</instruction_list>
+	</recipe>
+	<recipe id="2">
+    	<title>Gâteau japonais au fromage</title>
+    	<category>Dessert</category>
+    	<preptime>30 minutes</preptime>
+    	<cooktime>75 minutes</cooktime>
+    	<yield>8</yield>
+    	<image>img2.jpg</image>
+ 		<ingredient_list>
+			<ingredient>250 g de fromage à la crème</ingredient>
+			<ingredient>50 g de beurre non salé</ingredient>
+			<ingredient>1/3 tasse de lait</ingredient>
+			<ingredient>1/2 tasse de farine</ingredient>
+			<ingredient>5 c. à thé de fécule de maïs</ingredient>
+			<ingredient>5 œufs</ingredient>
+			<ingredient>1/2 tasse de sucre</ingredient>
+    	</ingredient_list>
+    	<instruction_list>
+			<instruction>Préchauffez le four à 325F. Beurrez un moule à gâteau de 8 pouces (21cm).</instruction>
+			<instruction>Faites chauffer le beurre, le fromage à la crème et le lait jusqu’à ce que le mélange fonde et devienne homogène. Laissez reposé à la température de la pièce.</instruction>
+			<instruction>Pendant ce temps, séparer les blancs des jaunes d’œufs.</instruction>
+			<instruction>Lorsque le mélange de fromage à la crème est à la température de la pièce, tamisez la farine, la fécule de maïs et le sel. Ajoutez les ingrédients sec au mélange de fromage à la crème, beurre et lait. Mélangez jusqu’à obtenir une jolie consistance homogène. Ne pas trop mélanger.</instruction>
+			<instruction>Montez en neige les blancs en neige. Ajoutez graduellement le sucre. Vous devez obtenir des blancs en neige comme pour les meringues.</instruction>
+			<instruction>En trois fois, incorporez les blancs en meringue à la préparation au fromage à la crème. Mélangez bien en essayant de ne pas casser les blancs. Cette étape est la plus longue car il ne faut pas qu’il reste de gros morceaux de blancs dans la pâte.</instruction>
+			<instruction>Versez le mélange dans le moule beurré. Mettre du papier aluminium autour de mon moule à charnières pour éviter toute infiltration d’eau dans le gâteau. Disposez votre moule dans un autre moule plus grand que vous remplirez à moitié d’eau bouillante. Faites cuire le gâteau à 325F durant 75 min. (Ne pas ouvrir la porte du four au début de la cuisson). Vérifiez la cuisson avec un cure-dent.</instruction>
+    	</instruction_list>
+  	</recipe>
+	<recipe id="9">
+		<title>Brochettes Satay</title>
+		<category>Poulet</category>
+		<preptime>5 minutes</preptime>
+		<cooktime>10 minutes</cooktime>
+		<yield>8</yield>
+		<image>img3.jpg</image>
+		<ingredient_list>
+			<ingredient>500g de hauts de cuisse de poulet</ingredient>
+			<ingredient>1 c. à thé poudre de cari</ingredient>
+			<ingredient>1 gousse d'ail hachée finement</ingredient>
+			<ingredient>2 c. à soupe de sauce soya</ingredient>
+			<ingredient>2 c. à soupe de jus de citron</ingredient>
+			<ingredient>1 c. à soupe de sucre</ingredient>
+		</ingredient_list>
+		<instruction_list>
+			<instruction>Couper le poulet en lanières et le mettre dans un plat peu profond.</instruction>
+			<instruction>Mélanger les ingrédients de la marinade et la verser sur le poulet.</instruction>
+			<instruction>Faire mariner au réfrigérateur 60 minutes.</instruction>
+			<instruction>Préchauffer le barbecue à intensité moyenne.</instruction>
+			<instruction>Enfiler le poulet sur les brochettes. Sur une grille huilée, faire griller les brochettes au barbecue, à feu moyen, environ 5 minutes de chaque coté.</instruction>
+		</instruction_list>
+	</recipe>
+
+	<recipe id="10">
+		<title>Brownies aux brisures de caramel et aux noix de cajou</title>
+		<category>Dessert</category>
+		<preptime>20 minutes</preptime>
+		<cooktime>24 minutes</cooktime>
+		<yield>12</yield>
+		<image>img4.jpg</image>
+		<ingredient_list>
+			<ingredient>6 oz (180 g) de chocolat mi-amer haché</ingredient>
+			<ingredient>1/4 t (60 ml) de beurre non salé </ingredient>
+			<ingredient>2/3 t (160 ml) de sucre</ingredient>
+			<ingredient>2 oeufs</ingredient>
+			<ingredient>1 c. à thé (5 ml) de vanille</ingredient>
+			<ingredient>3/4 t (180 ml) de farine</ingredient>
+			<ingredient>1/4 t (60 ml) de poudre de cacao non sucrée</ingredient>
+			<ingredient>1 c. à thé (5 ml) poudre à pâte</ingredient>
+			<ingredient>1 pincée de sel</ingredient>
+			<ingredient>1/2 t (125 ml) de noix de cajou non salées, hachées grossièrement</ingredient>
+			<ingredient>1 t (250 ml) de caramels enrobés de chocolat (de type Mini Rolo), coupés en deux</ingredient>
+		</ingredient_list>
+	  	<instruction_list>
+			<instruction>Dans un bol allant au micro-ondes, mélanger le chocolat et le beurre. Cuire au micro-ondes à intensité maximale pendant 1 minute. Mélanger et poursuivre la cuisson pendant 20 secondes. Mélanger de nouveau jusqu'à ce que la préparation soit lisse.</instruction>
+			<instruction>Ajouter le sucre, les oeufs et la vanille et bien mélanger. </instruction>
+			<instruction>Tamiser la farine, la poudre de cacao, la poudre à pâte et le sel sur le mélange au chocolat et mélanger jusqu'à ce que la préparation soit lisse. </instruction>
+			<instruction>Incorporer les noix de cajou et les caramels en brassant.</instruction>
+			<instruction>Verser la pâte dans un moule de 8 po (20 cm) de côté tapissé de papier d'aluminium beurré (bien lisser le papier d'aluminium et laisser dépasser un excédent de 1 po/2,5 cm sur deux des côtés du moule).</instruction>
+			<instruction>Cuire au four préchauffé à 350F de 20 à 22 minutes ou jusqu'à ce qu'un cure-dents inséré au centre du gâteau en ressorte avec  quelques miettes humides ne pas trop cuire. </instruction>
+			<instruction>Déposer le moule sur une grille et laisser refroidir légèrement.</instruction>
+			<instruction>Démouler les brownies en soulevant les bordures de papier d'aluminium. Couper en carrés.</instruction>
+		</instruction_list>
+	</recipe>
+
+	<recipe id="139">
+		<title>Confiture de fraise</title>
+		<category>Dessert</category>
+		<preptime>20 minutes</preptime>
+		<cooktime>1 heure</cooktime>
+		<yield>16</yield>
+		<image>img5.jpg</image>
+		<ingredient_list>
+			<ingredient>5 tasses de fraises</ingredient>
+			<ingredient>5 tasses de sucre</ingredient>
+			<ingredient>1/2 tasse de jus de citron</ingredient>
+		</ingredient_list>
+		<instruction_list>
+      	<instruction>Chauffer 15 à 20 minutes le sucre au four à 325F.</instruction>
+			<instruction>Cuire les fraise 10 minutes.</instruction>
+			<instruction>Verser le sucre chaud sur les fraises.</instruction>
+			<instruction>Ajouter le jus de citron.</instruction>
+			<instruction>Cuire 8 minutes.</instruction>
+		</instruction_list>
+	</recipe>
+
+	<recipe id="17">
+		<title>Coq au riesling</title>
+		<category>Poulet</category>
+		<preptime>20 minutes</preptime>
+		<cooktime>40 minutes</cooktime>
+		<yield>4</yield>
+		<image>img6.jpg</image>
+		<ingredient_list>
+			<ingredient>un coq de 3lb en morceaux</ingredient>
+			<ingredient>3 c. à soupe de beurre</ingredient>
+			<ingredient>1/2 tasse d'échalotes, hachées fin</ingredient>
+			<ingredient>1 barquette de champignons de Paris émincé</ingredient>
+			<ingredient>1 1/4 tasse de Riesling</ingredient>
+			<ingredient>1 1/4 tasse de jus de volaille</ingredient>
+			<ingredient>1 c. à soupe de farine</ingredient>
+			<ingredient>3/4 tasse crème à 35%</ingredient>
+			<ingredient>sel et poivre</ingredient>
+		</ingredient_list>
+		<instruction_list>
+      	<instruction>Dans une grande poêle, faire revenir les morceaux de coq avec 2 c. à soupe de beurre pendant 5 minutes.</instruction>
+			<instruction>Ajouter les échalotes, laisser suer un instant; ajouter les champignons.</instruction>
+			<instruction>Déglacer au Riesling, mouiller avec le jus de volaille et porter à ébullition.</instruction>
+			<instruction>Laisser mijoter doucement pendant environ 40 min, en écumant régulièrement.</instruction>
+			<instruction>Retirer les  morceaux de coq, déposer dans un grand plat de service et réserver au chaud.</instruction>
+			<instruction>Mélanger le reste du beurre avec la farine pour faire un beurre manié et incorporer au jus de cuisson.</instruction>
+			<instruction>Ajouter la crème, rectifier l'assaisonnement et verser la sauce sur le coq.</instruction>
+			<instruction>Servir bien chaud avec des spätzle.</instruction>
+		</instruction_list>
+	</recipe>
+</gourmetDoc>
