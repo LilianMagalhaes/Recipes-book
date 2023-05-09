@@ -31,30 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
             instructionsList.push(element.innerHTML.replaceAll('</instruction>','</li>')
                                                     .replaceAll('<instruction>','<li>'));   
             }
-
-       //    //ingredient list
-       //let ingredientsList = recipeXmlNode.children[6].innerHTML
-       //                    .replaceAll('</ingredient>','</li>')
-       //                    .replaceAll('<ingredient>','<li>');
-       //                    console.log("ingredientshtml="+ingredientsList);
-       //
-       ////instruction list
-       //
-       //let instructionsList = recipeXmlNode.children[7].innerHTML
-       //                    .replaceAll('</instruction>','</li>')
-       //                    .replaceAll('<instruction>','<li>');
-       //                    console.log("instructionshtml="+instructionsList);
-
-          //for (let j = 0; j < parser.getElementsByTagName("recipe").length; j++) {
-          //    ingredientsList = parser.getElementsByTagName("ingredient_list")[j].innerHTML
-          //                .replaceAll('</ingredient>','</li>')
-          //                .replaceAll('<ingredient>','<li>');
-          //    instructionsList = parser.getElementsByTagName("instruction_list")[j].innerHTML
-          //               .replaceAll('</instruction>','</li>')
-          //               .replaceAll('<instruction>','<li>');
-          //            }
-          console.log("ingredientshtml="+ingredientsList);
-          console.log("instructionshtml="+instructionsList);
+          
            
             //*Create object recipe:
             let recipe = new Recipe (
